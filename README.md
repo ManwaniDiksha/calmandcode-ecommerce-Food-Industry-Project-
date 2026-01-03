@@ -8,6 +8,8 @@ By leveraging modern web technologies, the system empowers small businesses to e
 
 CalmAndCode's mission is to provide an accessible, secure, and high-performance shopping platform for everyone, powered by real-time data integration and user-centric design.
 
+![GitHub repo size](https://img.shields.io/github/repo-size/ManwaniDiksha/calmandcode-ecommerce-Food-Industry-Project-)
+![GitHub last commit](https://img.shields.io/github/last-commit/ManwaniDiksha/calmandcode-ecommerce-Food-Industry-Project-)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Built with Node.js](https://img.shields.io/badge/Built%20with-Node.js-blue)
 ![Frontend: EJS Bootstrap](https://img.shields.io/badge/Frontend-EJS%20Bootstrap-orange)
@@ -75,8 +77,8 @@ CalmAndCode's mission is to provide an accessible, secure, and high-performance 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ManwaniDiksha/calmandcode-ecommerce-Food-Industry-Project-.git
+cd calmandcode-ecommerce-Food-Industry-Project-
 ```
 
 ### 2. Install Dependencies
@@ -198,7 +200,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2026 Diksha Manwani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
