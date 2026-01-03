@@ -8,8 +8,6 @@ By leveraging modern web technologies, the system empowers small businesses to e
 
 CalmAndCode's mission is to provide an accessible, secure, and high-performance shopping platform for everyone, powered by real-time data integration and user-centric design.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Built with Node.js](https://img.shields.io/badge/Built%20with-Node.js-blue)
 ![Frontend: EJS Bootstrap](https://img.shields.io/badge/Frontend-EJS%20Bootstrap-orange)
@@ -22,7 +20,7 @@ CalmAndCode's mission is to provide an accessible, secure, and high-performance 
 - [System Modules](#-system-modules)
 - [Tech Stack](#-tech-stack)
 - [Installation & Setup](#-installation--setup)
-- [User Interface & Screenshots](#-user-interface--screenshots)
+- [User Interface & Screenshots](#%EF%B8%8F-user-interface--screenshots)
 - [Future Enhancements](#-future-enhancements)
 - [License](#-license)
 - [Contact](#-contact)
