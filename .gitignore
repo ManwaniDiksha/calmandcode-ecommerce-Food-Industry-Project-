@@ -1,0 +1,4 @@
+node_modules/
+paypal credentials.txt
+.env
+.DS_Store
